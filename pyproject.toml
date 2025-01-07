@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-jmespath"
-description = "A ComfyUI node that tuns a JMESPath query against input JSON and outputs the result"
+description = "A ComfyUI node that runs a JMESPath query against input JSON and outputs the result"
 version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["jmespath-community"]

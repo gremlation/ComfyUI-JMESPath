@@ -1,6 +1,6 @@
 # ComfyUI-JMESPath
 
-A ComfyUI node that tuns a JMESPath query against input JSON and outputs the result.
+A ComfyUI node that runs a JMESPath query against input JSON and outputs the result.
 
 ![A screenshot showing usage of the node.](docs/workflow.png)
 
