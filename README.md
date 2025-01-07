@@ -21,6 +21,7 @@ Run the following commands in the terminal:
 ```shell
 cd custom_nodes
 git clone https://github.com/Gremlation/ComfyUI-JMESPath
+pip install -r ComfyUI-JMESPath/requirements.txt
 ```
 
 Then restart ComfyUI.
