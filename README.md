@@ -8,11 +8,16 @@ A ComfyUI node that runs a [JMESPath](https://jmespath.org) query against input 
 
 ### ComfyUI-Manager
 
-- Open the manager
-- Pick "Install via Git URL"
-- Enter `https://github.com/Gremlation/ComfyUI-JMESPath`
+- Open the Manager
+- Pick "Custom Nodes Manager"
+- Search for "ComfyUI-JMESPath"
+- Install the latest version
+- Restart ComfyUI
 
-You may need to edit `custom_nodes/ComfyUI-Manager/config.ini` and set `security_level = normal-` first.
+### Comfy-Cli
+
+- Run `comfy node install comfyui-jmespath`
+- Restart ComfyUI
 
 ### Manual
 
